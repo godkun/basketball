@@ -1,0 +1,27 @@
+{
+  "name": "basketball",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godkun/basketball.git"
+  },
+  "keywords": [],
+  "author": "yangkun <godkun666@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godkun/basketball/issues"
+  },
+  "homepage": "https://github.com/godkun/basketball#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.21",
+    "vue": "^3.2.41",
+    "@vuepress/plugin-search": "^1.8.2"
+  }
+}

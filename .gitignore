@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.DS_Store
+
+# debug
+pnpm-debug.log*
+yarn-debug.log*
+npm-debug.log*
+pnpm-error.log*
+yarn-error.log*
+npm-error.log*
+.vercel
