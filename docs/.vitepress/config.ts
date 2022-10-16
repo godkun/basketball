@@ -42,7 +42,8 @@ module.exports = {
         text: 'ikun篮球空间',
         items: [
           { text: '首页', link: '/ikun/' },
-          { text: '联系作者', link: '/ikun/联系作者' }
+          { text: '联系作者', link: '/ikun/联系作者' },
+          { text: '交流群', link: '/ikun/交流群' }
         ]
       }
     ],
