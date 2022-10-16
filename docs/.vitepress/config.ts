@@ -10,7 +10,10 @@ module.exports = {
     sidebar: [
       {
         text: '教程视频',
-        items: [{ text: '屈髋', link: '/guide/教程视频-屈髋' }]
+        items: [
+          { text: '屈髋', link: '/guide/教程视频-屈髋' },
+          { text: '防守断球', link: '/guide/教程视频-防守断球' }
+        ],
       },
       {
         text: '训练方案',
