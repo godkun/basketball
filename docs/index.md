@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /guide/教程视频-屈髋
+      link: /教程视频/屈髋
 
 features:
   - icon: 🏀
@@ -19,6 +19,12 @@ features:
   - icon: 🏀
     title: 训练方案
     # details: 训练方案
+  - icon: 🏀
+    title: 篮球战术
+    # details: 一些装备
+  - icon: 🏀
+    title: 篮球规则
+    # details: 一些装备
   - icon: 🏀
     title: 篮球装备
     # details: 一些装备

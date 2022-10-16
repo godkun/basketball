@@ -14,23 +14,35 @@ module.exports = {
       {
         text: '教程视频',
         items: [
-          { text: '屈髋', link: '/guide/教程视频-屈髋' },
-          { text: '防守断球', link: '/guide/教程视频-防守断球' }
+          { text: '首页', link: '/教程视频/' },
+          { text: '屈髋', link: '/教程视频/屈髋' },
+          { text: '防守断球', link: '/教程视频/防守断球' }
         ]
       },
       {
         text: '训练方案',
-        items: [{ text: '投篮', link: '/guide/训练方案-投篮' }]
+        items: [
+          { text: '首页', link: '/训练方案/' },
+          { text: '投篮', link: '/训练方案/投篮' }
+        ]
+      },
+      {
+        text: '篮球战术',
+        items: [{ text: '首页', link: '/战术/' }]
+      },
+      {
+        text: '篮球规则',
+        items: [{ text: '首页', link: '/规则/' }]
       },
       {
         text: '篮球装备',
-        items: [{ text: '篮球', link: '/guide/篮球装备-篮球' }]
+        items: [{ text: '首页', link: '/装备/' }]
       },
       {
         text: 'ikun篮球空间',
         items: [
-          { text: '首页', link: '/guide/ikun篮球空间-首页' },
-          { text: '联系作者', link: '/guide/ikun篮球空间-联系作者' }
+          { text: '首页', link: '/ikun/' },
+          { text: '联系作者', link: '/ikun/联系作者' }
         ]
       }
     ],
