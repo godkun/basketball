@@ -16,7 +16,11 @@ module.exports = {
         items: [
           { text: '首页', link: '/教程视频/' },
           { text: '屈髋', link: '/教程视频/屈髋' },
-          { text: '防守断球', link: '/教程视频/防守断球' }
+          { text: '防守断球', link: '/教程视频/防守断球' },
+          {
+            text: 'one motion投篮过程分解',
+            link: '/教程视频/one motion投篮过程分解'
+          },
         ]
       },
       {
