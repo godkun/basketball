@@ -21,6 +21,10 @@ module.exports = {
             text: 'one motion投篮过程分解',
             link: '/教程视频/one motion投篮过程分解'
           },
+          {
+            text: '手指运球',
+            link: '/教程视频/手指运球'
+          }
         ]
       },
       {
